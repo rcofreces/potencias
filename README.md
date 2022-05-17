@@ -1,0 +1,2 @@
+# potencias
+Created with CodeSandbox
